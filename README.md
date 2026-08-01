@@ -186,8 +186,8 @@ footer{
 }
 ```
 ## OUTPUT
-![alt text](aboutme/image-1.png)
 
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
